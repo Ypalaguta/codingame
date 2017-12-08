@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  difibrilator.cpp
+c:\users\ypalaguta\downloads\projects\difibrilator\difibrilator\difibrilator.cpp(21): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\ypalaguta\downloads\projects\difibrilator\difibrilator\difibrilator.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+  difibrilator.vcxproj -> C:\Users\ypalaguta\Downloads\Projects\difibrilator\Debug\difibrilator.exe

@@ -1,0 +1,5 @@
+﻿  norrisBytecode.cpp
+c:\users\catallena\documents\visual studio 2015\projects\norrisbytecode\norrisbytecode\norrisbytecode.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\catallena\documents\visual studio 2015\projects\norrisbytecode\norrisbytecode\norrisbytecode.cpp(52): warning C4018: '<': signed/unsigned mismatch
+  norrisBytecode.vcxproj -> C:\Users\Catallena\documents\visual studio 2015\Projects\norrisBytecode\Debug\norrisBytecode.exe
+  norrisBytecode.vcxproj -> C:\Users\Catallena\documents\visual studio 2015\Projects\norrisBytecode\Debug\norrisBytecode.pdb (Full PDB)
